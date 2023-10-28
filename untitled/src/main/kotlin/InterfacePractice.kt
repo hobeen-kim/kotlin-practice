@@ -1,7 +1,7 @@
 class InterfacePractice {
 }
 
-fun main(args : Array<String>) {
+fun main() {
     var dog = Dog2();
 
     dog.eat()

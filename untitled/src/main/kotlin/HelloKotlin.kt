@@ -1,7 +1,7 @@
 class HelloKotlin {
 }
 
-fun main(args: Array<String>) {
+fun main() {
 
     var a = Person("박보영", 1990)
     var b = Person("전정국", 1997)

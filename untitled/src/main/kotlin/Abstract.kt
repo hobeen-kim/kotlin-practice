@@ -1,7 +1,7 @@
 abstract class Abstract {
 }
 
-fun main(args : Array<String>) {
+fun main() {
 
 }
 
