@@ -10,7 +10,7 @@ abstract class Animal3 {
     abstract fun eat()
 
     fun sniff() {
-        println("킁킁")
+        println("킁킁 test")
     }
 }
 
